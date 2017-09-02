@@ -1,10 +1,4 @@
-/*!
- * reveal.js
- * http://lab.hakim.se/reveal-js
- * MIT licensed
- *
- * Copyright (C) 2017 Hakim El Hattab, http://hakim.se
- */
+
 (function( root, factory ) {
 	if( typeof define === 'function' && define.amd ) {
 		// AMD. Register as an anonymous module.
